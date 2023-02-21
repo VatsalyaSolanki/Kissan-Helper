@@ -1,6 +1,6 @@
 # Kissan-Helper                      
 
-star You Star-ing me Motivates to work harder
+:star: You Star-ing me Motivates to work harder
  ### Description
  This Android application helps farmers to gain information about various crops and their diseases. Also farmers can learn about various government schemes through this app. Kissan-Helper also provides chatbot service where farmers can solve their queries. Feel free to add further modules and functionalities to this applications. 
 
@@ -18,11 +18,11 @@ star You Star-ing me Motivates to work harder
    
 ## Look & Feel
 
-<picture> <img alt="mainactivity" src="/Images/main_activity.jpg" height="450vh" width="250vh"></picture>
-<picture> <img alt="mainactivity" src="/Images/crop_activity.jpg" height="450vh" width="250vh"> </picture>
-<picture> <img alt="mainactivity" src="/Images/crop_help.jpg" height="450vh" width="250vh"> </picture>
+<picture> <img alt="mainactivity" src="/Images/main_activity.jpg" height="450vh" width="250vh" style="padding:50vh;"></picture>
+<picture> <img alt="mainactivity" src="/Images/crop_activity.jpg" height="450vh" width="250vh"> </picture><br>
+ <picture> <img alt="mainactivity" src="/Images/crop_help.jpg" height="450vh" width="250vh" > </picture> 
 <picture> <img alt="mainactivity" src="/Images/chat_bot.jpg" height="450vh" width="250vh"> </picture>
-   
+ 
    
 ## Version
 Kissan-Helper version 1.0
