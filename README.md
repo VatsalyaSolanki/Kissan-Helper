@@ -16,6 +16,14 @@ star You Star-ing me Motivates to work harder
 + Change the gradle classpath in _build.gradle_ (project gradle) to your available gradle version
 - Change the distributionURL in _gradle.properties_  to your available gradle version
    
+## Look & Feel
+
+<picture> <img alt="mainactivity" src="/Images/main_activity.jpg" height="450vh" width="250vh"></picture>
+<picture> <img alt="mainactivity" src="/Images/crop_activity.jpg" height="450vh" width="250vh"> </picture>
+<picture> <img alt="mainactivity" src="/Images/crop_help.jpg" height="450vh" width="250vh"> </picture>
+<picture> <img alt="mainactivity" src="/Images/chat_bot.jpg" height="450vh" width="250vh"> </picture>
+   
+   
 ## Version
 Kissan-Helper version 1.0
      
