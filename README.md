@@ -18,11 +18,11 @@
    
 ## Look & Feel
 
-<picture> <img alt="mainactivity" src="/Images/main_activity.jpg" height="450vh" width="250vh" style="padding:50vh;"></picture>
-<picture> <img alt="mainactivity" src="/Images/crop_activity.jpg" height="450vh" width="250vh"> </picture><br>
- <picture> <img alt="mainactivity" src="/Images/crop_help.jpg" height="450vh" width="250vh" > </picture> 
-<picture> <img alt="mainactivity" src="/Images/chat_bot.jpg" height="450vh" width="250vh"> </picture>
- 
+<picture style="padding:51%;"> <img alt="mainactivity" src="/Images/main_activity.jpg" height="450vh" width="230vh" ></picture>
+<picture> <img alt="mainactivity" src="/Images/crop_activity.jpg" height="450vh" width="230vh"> </picture>
+ <picture> <img alt="mainactivity" src="/Images/crop_help.jpg" height="450vh" width="230vh" > </picture> 
+<picture> <img alt="mainactivity" src="/Images/chat_bot.jpg" height="450vh" width="230vh"> </picture>
+
    
 ## Version
 Kissan-Helper version 1.0
